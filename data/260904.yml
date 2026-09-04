@@ -7,7 +7,7 @@ about:
   head: 81e0815
   archived: false
   latestVersion: v2.0.0-rc.5
-  collectedAt: 2026-09-04T19:21:37Z
+  collectedAt: 2026-09-04T21:14:37Z
 timeline:
   created: 2023-06-18
   lastCommit: 2026-06-22
@@ -83,5 +83,43 @@ total:
   openIssue: 2
   commit: 373
 ---
+path: /home/runner/.x-repo/github.com/keidarcy/e1s
+collectedAt: 2026-09-04T21:14:39Z
+loc:
+  Go:
+    code: 8375
+    comments: 494
+    blanks: 1178
+    files: 61
+  Hcl:
+    code: 932
+    comments: 96
+    blanks: 147
+    files: 9
+  Dockerfile:
+    code: 33
+    comments: 8
+    blanks: 12
+    files: 1
+  Makefile:
+    code: 21
+    comments: 0
+    blanks: 8
+    files: 1
+  Yaml:
+    code: 17
+    comments: 4
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 357
+    blanks: 152
+    files: 2
+total:
+  code: 9401
+  comments: 971
+  blanks: 1498
+  files: 75
 ---
 
