@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9554721,
       "digest": "sha256:628617a21bdb800e5c1ad5c74957a75bbafcbda37ca6afc630a79673821d4132",
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2026-09-07T08:47:10Z",
       "updated_at": "2026-09-07T08:47:11Z",
       "browser_download_url": "https://github.com/keidarcy/e1s/releases/download/v2.0.0/e1s_2.0.0_linux_amd64.tar.gz"
