@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 18691617,
       "digest": "sha256:5eaad3cde6c70ca943feabbd4018c20aa9c261fdd3fcd207dd340052babb3d5b",
-      "download_count": 131,
+      "download_count": 138,
       "created_at": "2026-09-07T08:47:11Z",
       "updated_at": "2026-09-07T08:47:12Z",
       "browser_download_url": "https://github.com/keidarcy/e1s/releases/download/v2.0.0/e1s_2.0.0_darwin_all.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9554721,
       "digest": "sha256:628617a21bdb800e5c1ad5c74957a75bbafcbda37ca6afc630a79673821d4132",
-      "download_count": 150,
+      "download_count": 163,
       "created_at": "2026-09-07T08:47:10Z",
       "updated_at": "2026-09-07T08:47:11Z",
       "browser_download_url": "https://github.com/keidarcy/e1s/releases/download/v2.0.0/e1s_2.0.0_linux_amd64.tar.gz"
