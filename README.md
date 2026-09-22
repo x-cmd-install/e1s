@@ -38,22 +38,22 @@ Total: **9,378** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 929 · **Forks**: 43 · **Open issues**: 45 · **Contributors**: 10
+- **Stars**: 929 · **Forks**: 44 · **Open issues**: 45 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 192 · **Open PRs**: 1 · **Closed issues**: 45 · **Open issues**: 0 · **Commits**: 376
+- **Releases**: 56 · **Merged PRs**: 192 · **Open PRs**: 2 · **Closed issues**: 45 · **Open issues**: 0 · **Commits**: 376
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 1 | 1 | 0 | 0 | 3 |
-| last60d | 2026-07-23 | 1 | 1 | 1 | 0 | 0 | 3 |
-| 90d | 2026-06-23 | 1 | 1 | 1 | 0 | 0 | 3 |
-| last180d | 2026-03-25 | 5 | 19 | 1 | 3 | 0 | 25 |
-| 360d | 2025-09-26 | 9 | 37 | 1 | 6 | 0 | 53 |
-| last720d | 2024-10-01 | 19 | 59 | 1 | 18 | 0 | 97 |
+| 30d | 2026-08-23 | 1 | 1 | 2 | 0 | 0 | 3 |
+| last60d | 2026-07-24 | 1 | 1 | 2 | 0 | 0 | 3 |
+| 90d | 2026-06-24 | 1 | 1 | 2 | 0 | 0 | 3 |
+| last180d | 2026-03-26 | 5 | 17 | 2 | 2 | 0 | 25 |
+| 360d | 2025-09-27 | 9 | 37 | 2 | 6 | 0 | 53 |
+| last720d | 2024-10-02 | 18 | 59 | 2 | 18 | 0 | 94 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for e1s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:08:58Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:00:00Z._
