@@ -33,7 +33,7 @@ Total: **9,380** lines of code across **73** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.0` (2026-09-07)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-05
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **9,380** lines of code across **73** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 193 · **Open PRs**: 10 · **Closed issues**: 45 · **Open issues**: 0 · **Commits**: 377
+- **Releases**: 56 · **Merged PRs**: 198 · **Open PRs**: 1 · **Closed issues**: 45 · **Open issues**: 0 · **Commits**: 382
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 2 | 10 | 0 | 0 | 1 |
-| last60d | 2026-08-05 | 1 | 2 | 10 | 0 | 0 | 4 |
-| 90d | 2026-07-06 | 1 | 2 | 10 | 0 | 0 | 4 |
-| last180d | 2026-04-07 | 4 | 10 | 10 | 0 | 0 | 15 |
-| 360d | 2025-10-09 | 9 | 38 | 10 | 6 | 0 | 54 |
-| last720d | 2024-10-14 | 18 | 59 | 10 | 18 | 0 | 94 |
+| 30d | 2026-09-05 | 1 | 7 | 1 | 0 | 0 | 6 |
+| last60d | 2026-08-06 | 1 | 7 | 1 | 0 | 0 | 9 |
+| 90d | 2026-07-07 | 1 | 7 | 1 | 0 | 0 | 9 |
+| last180d | 2026-04-08 | 4 | 15 | 1 | 0 | 0 | 20 |
+| 360d | 2025-10-10 | 9 | 43 | 1 | 6 | 0 | 59 |
+| last720d | 2024-10-15 | 18 | 64 | 1 | 18 | 0 | 99 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for e1s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:39:45Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:41:42Z._
