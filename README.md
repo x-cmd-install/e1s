@@ -48,12 +48,12 @@ Total: **9,380** lines of code across **73** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 0 | 6 | 8 | 0 | 1 | 6 |
-| 90d | 2026-08-15 | 1 | 7 | 8 | 0 | 1 | 9 |
-| last180d | 2026-05-17 | 4 | 14 | 8 | 0 | 1 | 20 |
-| 360d | 2025-11-18 | 8 | 36 | 8 | 6 | 1 | 56 |
-| last720d | 2024-11-23 | 17 | 62 | 8 | 18 | 1 | 96 |
+| 30d | 2026-10-15 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 0 | 6 | 8 | 0 | 1 | 6 |
+| 90d | 2026-08-16 | 1 | 7 | 8 | 0 | 1 | 9 |
+| last180d | 2026-05-18 | 4 | 14 | 8 | 0 | 1 | 20 |
+| 360d | 2025-11-19 | 8 | 36 | 8 | 6 | 1 | 56 |
+| last720d | 2024-11-24 | 17 | 62 | 8 | 18 | 1 | 96 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for e1s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:49:20Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:57:34Z._
